@@ -1,11 +1,9 @@
 # Linux for DevOps – Hands-On Experience  
 
 ## Video Demonstrations  
-**Watch the full execution of each topic:**  
+**Watch me performing each task step by step:**  
 🔗 **[Watch Here](https://drive.google.com/drive/folders/1W5JslTcnK887YAjaPXviYrJQWP0oDFxx?usp=drive_link)**  
-
-**Step-by-step Linux administration tasks in action!**  
-
+ 
 ---
 
 ## Overview  
